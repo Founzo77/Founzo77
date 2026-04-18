@@ -42,25 +42,9 @@ I enjoy building optimized, low-level solutions and tackling complex technical p
 
 ## 🔬 Skills
 
-### GPU Rendering & Ray Tracing
-
-Design and implementation of real-time rendering systems with a focus on **low-level GPU pipelines**, **DXR**, and **rendering abstractions**.
-
-- Development of a full **DX12 ray tracing engine (FGE)** with TLAS/BLAS, materials and lighting
-- Design of a **multi-backend abstraction layer (FGE Abstract)** enabling renderer comparison
-- Integration of **ANARI backends** (FGEIA, FGEWA) for interoperability and benchmarking
-- Implementation of **path tracing, volume rendering (DVR)** and real-time pipelines
-
-→ Projects:
-- <a href="https://github.com/Founzo77/FCE---2025-2026-">FCE / FGE / FGEIA / FGEWA (5th year)</a>
-- <a href="https://github.com/Founzo77/GPU-Ray-Tracer-4th-year---2nd-semester-2025-">CUDA Ray Tracer (4th year)</a>
-
-
----
-
 ### High Performance Computing & Optimization
 
-Advanced understanding of **CPU performance**, **memory hierarchies**, and **vectorization**.
+Advanced understanding of **CPU/GPU performance**, **memory hierarchies**, and **optimization**.
 
 - SIMD vectorization, cache-aware algorithms, temporal blocking
 - Roofline modeling and profiling with **Intel Advisor / VTune**
@@ -75,6 +59,21 @@ Advanced understanding of **CPU performance**, **memory hierarchies**, and **vec
 - <a href="https://github.com/Founzo77/Analysis-of-NUMA-effects---5th-year-2nd-semester-2026-">NUMA Analysis (HPC cluster) (5th year)</a>
 - <a href="https://github.com/Founzo77/GPU-Ray-Tracer-4th-year---2nd-semester-2025-">CUDA Ray Tracer profiling (4th year)</a>
 - <a href="https://github.com/Founzo77/Analysis-of-NUMA-effects---5th-year-2nd-semester-2026-">FGE : DirectX 12 pipeline profiling (5th year)</a>
+
+---
+
+### GPU Rendering & Ray Tracing
+
+Design and implementation of real-time rendering systems with a focus on **low-level GPU pipelines**, **DXR**, and **rendering abstractions**.
+
+- Development of a full **DX12 ray tracing engine (FGE)** with TLAS/BLAS, materials and lighting
+- Design of a **multi-backend abstraction layer (FGE Abstract)** enabling renderer comparison
+- Integration of **ANARI backends** (FGEIA, FGEWA) for interoperability and benchmarking
+- Implementation of **path tracing, volume rendering (DVR)** and real-time pipelines
+
+→ Projects:
+- <a href="https://github.com/Founzo77/FCE---2025-2026-">FCE / FGE / FGEIA / FGEWA (5th year)</a>
+- <a href="https://github.com/Founzo77/GPU-Ray-Tracer-4th-year---2nd-semester-2025-">CUDA Ray Tracer (4th year)</a>
 
 ---
 
