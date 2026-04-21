@@ -9,12 +9,12 @@
 <p align="center">
 <b>HPC • GPU Computing • Rendering</b><br/>
 Engineering student focused on performance, systems and physics-based rendering.<br/>
-I enjoy building optimized, low-level solutions and tackling complex technical problems.
+I enjoy designing high-performance, low-level solutions and tackling complex technical problems.
 </p>
 
 <p align="center">
-🎓 <b>Master CHPS (HPC & Simulation)</b> — URCA, Reims (M2, Major M1)<br/>
-🎓 <b>BSc Computer Science</b> — URCA, Reims (Major)
+🎓 <b>Master CHPS (High Performance Computing & Simulation)</b> — URCA, Reims (M2, Major M1)<br/>
+🎓 <b>BSc Computer Science</b> — URCA, Reims (Ranked 1st)
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ I enjoy building optimized, low-level solutions and tackling complex technical p
 </p>
 
 <p align="center">
-❤️ Passionate · 🧠 Curious · ⚙️ Autonomous<br/>
+❤️ Passionate · 🧠 Curious · ⚙️ Independent<br/>
 ♟️ Chess · 💻 Computing · 🎨 Drawing · 🎮 Video Games
 </p>
 
@@ -58,7 +58,7 @@ Advanced understanding of **CPU/GPU performance**, **memory hierarchies**, and *
 - <a href="https://github.com/Founzo77/5-Point-Stencil-CPU-5th-year---1st-semester-2025-">5-Point Stencil Optimization (5th year)</a>
 - <a href="https://github.com/Founzo77/Analysis-of-NUMA-effects---5th-year-2nd-semester-2026-">NUMA Analysis (HPC cluster) (5th year)</a>
 - <a href="https://github.com/Founzo77/GPU-Ray-Tracer-4th-year---2nd-semester-2025-">CUDA Ray Tracer profiling (4th year)</a>
-- <a href="https://github.com/Founzo77/Analysis-of-NUMA-effects---5th-year-2nd-semester-2026-">FGE : DirectX 12 pipeline profiling (5th year)</a>
+- <a href="https://github.com/Founzo77/FCE---2025-2026-">FGE — DirectX 12 pipeline profiling (5th year)</a>
 
 ---
 
@@ -113,7 +113,7 @@ Experience in **low-level programming**, **concurrency**, and **system design in
 - Multithreading, synchronization, networking (TCP/UDP)
 - Compiler construction (Lex/Yacc)
 - Custom memory-safe abstractions and data structures
-- Database design, SQL requests and PL/SQL scripts
+- Database design, SQL queries and PL/SQL scripts
 
 → Projects:
 - <a href="https://github.com/Founzo77/Need-For-Curses-3rd-year---2nd-semester-2024-">Multiplayer Terminal Game (3rd year)</a>
@@ -143,7 +143,7 @@ The goal is to study low-level GPU rendering through a complete engine. The proj
 
 The current engine supports real-time scene updates, a component-based runtime, multiple cameras, a Phong integrator, a minimal path tracer and volume rendering. The main objective is to design a renderer and an engine together, while keeping explicit control over the architecture and the GPU pipeline.
 
-→ <a href="https://github.com/Founzo77/FCE---2025-2026-">FCE---2025-2026-</a>
+→ <a href="https://github.com/Founzo77/FCE---2025-2026-">FCE (runtime), FGE (renderer) — 2025-2026</a>
 
 </td>
 </tr>
@@ -166,7 +166,7 @@ The objective is to validate the renderer through another API layer. It also all
 
 This project is mainly about architecture. It is less focused on visual features and more focused on how a renderer can be integrated into a generic rendering ecosystem.
 
-→ <a href="https://github.com/Founzo77/FCE---2025-2026-">FGEIA / FGEWA</a>
+→ <a href="https://github.com/Founzo77/FCE---2025-2026-">FGEIA (ANARI implementation) / FGEWA (ANARI wrapper) — 5th-year 2nd-semester-2026</a>
 
 </td>
 </tr>
@@ -233,7 +233,7 @@ HPC project dedicated to the study of NUMA effects on the Roméo 2025 supercompu
 
 The analysis is based on STREAM and Multichase. The objective is to understand how topology changes memory behavior. The project studies local and remote memory accesses, scalability with the number of NUMA nodes, application interference and the impact of hybrid cores or hyperthreading.
 
-This project is mainly experimental. It aims to characterize the machine and to explain which memory effects dominate performance. :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+This project is mainly experimental. It aims to characterize the machine and to explain which memory effects dominate performance.
 
 → <a href="https://github.com/Founzo77/Analysis-of-NUMA-effects---5th-year-2nd-semester-2026-">Analysis-of-NUMA-effects---5th-year-2nd-semester-2026-</a>
 
