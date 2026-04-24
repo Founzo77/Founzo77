@@ -23,7 +23,7 @@ I enjoy designing high-performance, low-level solutions and tackling complex tec
 </p>
 
 <p align="center">
-❤️ Passionate · 🧠 Curious · ⚙️ Independent<br/>
+❤️ Passionate · 🧠 Curious · ⚙️ Independent · 🤝 Honest<br/>
 ♟️ Chess · 💻 Computing · 🎨 Drawing · 🎮 Video Games
 </p>
 
@@ -66,10 +66,11 @@ Advanced understanding of **CPU/GPU performance**, **memory hierarchies**, and *
 
 Design and implementation of real-time rendering systems with a focus on **low-level GPU pipelines**, **DXR**, and **rendering abstractions**.
 
-- Development of a full **DX12 ray tracing engine (FGE)** with TLAS/BLAS, materials and lighting
-- Design of a **multi-backend abstraction layer (FGE Abstract)** enabling renderer comparison
-- Integration of **ANARI backends** (FGEIA, FGEWA) for interoperability and benchmarking
-- Implementation of **path tracing, volume rendering (DVR)** and real-time pipelines
+- DirectX 12 resource management, command queues, synchronization and descriptor heaps
+- DXR acceleration structures (**TLAS / BLAS**), ray generation, hit/miss shaders and shader binding tables
+- Path tracing, volume rendering (**DVR**) and real-time ray tracing
+- Rendering architecture design: abstraction layers, material systems, scene representation, GPU-side workflows
+- ANARI interoperability and backend integration
 
 → Projects:
 - <a href="https://github.com/Founzo77/FCE---2025-2026-">FCE / FGE / FGEIA / FGEWA (5th year)</a>
@@ -164,7 +165,7 @@ This part focuses on rendering abstraction and interoperability. FGEIA exposes m
 
 The objective is to validate the renderer through another API layer. It also allows the comparison of several ANARI backends such as VisRTX, Visionaray and Barney. This work is used to study backend abstraction, device integration and API portability for rendering.
 
-This project is mainly about architecture. It is less focused on visual features and more focused on how a renderer can be integrated into a generic rendering ecosystem.
+This project is mainly about discovering the ANARI ecosystem and understanding how modern rendering APIs are designed for interoperability. It focuses less on visual features and more on learning backend abstraction, device integration, and how a renderer can be connected to a broader rendering framework.
 
 → <a href="https://github.com/Founzo77/FCE---2025-2026-">FGEIA (ANARI implementation) / FGEWA (ANARI wrapper) — 5th-year 2nd-semester-2026</a>
 
