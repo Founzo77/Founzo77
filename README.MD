@@ -100,10 +100,28 @@ Strong background in **image processing**, **optimization problems**, and **grap
 - Branch-and-bound, heuristics, combinatorial optimization
 - Graph algorithms (MST, connectivity, segmentation)
 - Image segmentation algorithms and region-based methods
+- Photogrammetry pipelines
 
 → Projects:
 - <a href="https://github.com/Founzo77/Knapsack-TSP-Solvers-4th-year---2nd-semester-2025-">Knapsack / TSP Solvers (4th year)</a>
 - <a href="https://github.com/Founzo77/Image-Segmentation-Algorithms-4th-year---1st-semester-2024-">Image Segmentation Algorithms (4th year)</a>
+- <a href="#">Soon: Photogrammetry pipeline analysis (5th year)</a>
+
+### Development Environment & Tooling
+
+Experience working in **Linux and Windows environments** with a focus on build systems, toolchains and analysis tools.
+
+- CMake-based build systems, multi-platform configuration and dependency management
+- Compilation toolchains (GCC, Clang, MSVC), optimization flags and debugging symbols
+- Performance analysis and profiling on both Linux & Windows with PIX, Nsight and Intel VTune
+- Debugging with GDB, Visual Studio debugger
+- Git workflows
+- Scripting for automation (Bash, basic Python)
+
+→ Projects:
+- <a href="https://github.com/Founzo77/FCE---2025-2026-">FCE (5th year) — Windows project (CMake, DXR)</a>
+- <a href="https://github.com/Founzo77/Quantum-Cube-Connectivity---5th-year-2nd-semester-2026--">Quantum Cube Connectivity (5th year) — HPC workflows</a>
+- <a href="https://github.com/Founzo77/5-Point-Stencil-CPU-5th-year---1st-semester-2025-">5 Point Stencil CPU (5th year) — multi-compiler optimization</a>
 
 ---
 
@@ -159,7 +177,7 @@ The current engine supports real-time scene updates, a component-based runtime, 
 </td>
 <td valign="top">
 
-### FGEIA / FGEWA — ANARI Integration — 5th year
+### ANARI Implementation & Wrapper — 5th year
 
 This part focuses on rendering abstraction and interoperability. FGEIA exposes my renderer as an ANARI implementation. FGEWA corresponds to the backend side used to connect the abstraction layer to different rendering implementations.
 
@@ -352,6 +370,31 @@ The project mixes C++ and Python. It studies both implementation details and seg
 This work is mainly focused on graph algorithms, image processing and algorithmic experimentation.
 
 → <a href="https://github.com/Founzo77/Image-Segmentation-Algorithms-4th-year---1st-semester-2024-">Image-Segmentation-Algorithms-4th-year---1st-semester-2024-</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="38%" valign="middle">
+<img src="images/photogrammetry.png" width="100%"/>
+</td>
+<td valign="top">
+
+### Photogrammetry Pipeline & 3D Reconstruction — 5th year
+
+Project focused on 3D reconstruction from images using photogrammetry pipelines. The work studies the full process from image acquisition to textured mesh generation using tools such as **Meshroom** and **RealityScan**.
+
+The objective is to understand how modern photogrammetry systems reconstruct geometry from multi-view images. The project analyzes each stage of the pipeline.
+
+Several datasets were captured with different objects under varying conditions. The study evaluates the impact of acquisition strategies such as lighting, camera motion, number of images and overlap between views on reconstruction quality. A significant part of the work is experimental. It investigates challenging cases such as symmetric objects, specular materials, low-texture regions and object motion.
+
+The project also compares different software pipelines (**Meshroom** vs **RealityScan**) in terms of reconstruction quality, robustness, usability and computational cost.
+
+→ <a href="#">Soon : Photogrammetry Report</a>
 
 </td>
 </tr>
