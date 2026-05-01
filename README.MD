@@ -24,7 +24,7 @@ I enjoy designing high-performance, low-level solutions and tackling complex tec
 
 <p align="center">
 ❤️ Passionate · 🧠 Curious · ⚙️ Autonomous · 🤝 Honest<br/>
-💻 Computing · 🎨 Drawing · ♟️ Chess· 🎮 Video Games
+💻 Computing · 🎨 Drawing · ♟️ Chess · 🎮 Video Games
 </p>
 
 </td>
