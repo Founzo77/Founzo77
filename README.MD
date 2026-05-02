@@ -428,6 +428,50 @@ This project is more theoretical than the others. It focuses on rendering method
 <table>
 <tr>
 <td width="38%" valign="middle">
+<img src="images/fem-heat.png" width="100%"/>
+</td>
+<td valign="top">
+
+### Finite Element Heat Simulation — 4th year
+
+Finite element project focused on **2D thermal simulation of buildings under heat conditions**. The work combines mesh generation with FreeFem++ and numerical solvers implemented in Python.
+
+The objective is to model heat diffusion inside a house using realistic boundary conditions (Dirichlet, Fourier–Robin) and material-dependent conductivity. The system solves a PDE over dynamically generated meshes representing different building configurations.
+
+Experiments evaluate the impact of materials, roof properties and openings on heat diffusion. The results highlight strong dependencies between insulation, geometry and external conditions.
+
+→ <a href="#">Soon: Finite Element</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="38%" valign="middle">
+<img src="images/raytracing-video.png" width="100%"/>
+</td>
+<td valign="top">
+
+### Ray Tracing Educational Video — 5th year
+
+Short educational project created with Antoine Duval for the Octet Video contest, focused on **explaining ray tracing concepts in a constrained format** (≤256 seconds). The video aims to make rendering accessible while preserving technical accuracy.
+
+The content introduces the core principles of ray tracing, including ray-object intersections, light transport and shading, with a focus on intuition rather than implementation details. It highlights how rays propagate through a scene to simulate reflections, shadows and global illumination.
+
+The challenge is to balance **technical correctness, clarity and time constraints**, requiring strong abstraction and careful selection of concepts. The work involves structuring explanations, simplifying complex rendering ideas and designing visual support for efficient communication.
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="38%" valign="middle">
 <img src="images/Need-For-Curses.png" width="100%"/>
 </td>
 <td valign="top">
