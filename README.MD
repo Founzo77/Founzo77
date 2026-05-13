@@ -105,7 +105,7 @@ Strong background in **image processing**, **optimization problems**, and **grap
 → Projects:
 - <a href="https://github.com/Founzo77/Knapsack-TSP-Solvers-4th-year---2nd-semester-2025-">Knapsack / TSP Solvers (4th year)</a>
 - <a href="https://github.com/Founzo77/Image-Segmentation-Algorithms-4th-year---1st-semester-2024-">Image Segmentation Algorithms (4th year)</a>
-- <a href="#">Soon: Photogrammetry pipeline analysis (5th year)</a>
+- <a href="https://github.com/Founzo77/Photogrammetry-Introduction---5th-year-2nd-semester-2026--">Photogrammetry pipeline analysis (5th year)</a>
 
 ### Development Environment & Tooling
 
@@ -196,29 +196,6 @@ This project is mainly about discovering the ANARI ecosystem and understanding h
 <table>
 <tr>
 <td width="38%" valign="middle">
-<img src="images/Quantum-Cube-Connectivity.png" width="100%"/>
-</td>
-<td valign="top">
-
-### Quantum Cube & Connectivity — 5th year
-
-Fortran HPC project for molecular orbital cube computation and atomic connectivity analysis from WFX files. The code computes molecular orbital energy cubes, molecular energy density and connectivity metrics for atoms and fragments.
-
-The project targets scientific computing and code optimization. It studies SoA layouts, loop reordering, vectorization, OpenMP parallelization and GPU offloading. It also uses Intel Advisor and VTune to analyze roofline behavior, memory pressure and scalability.
-
-A second important part is the connectivity computation. It includes an ISBI-based metric and support for promolecular models. The project is therefore both a numerical code and an introduction to HPC-oriented quantum chemistry workflows.
-
-→ <a href="https://github.com/Founzo77/Quantum-Cube-Connectivity---5th-year-2nd-semester-2026--">Quantum-Cube-Connectivity---5th-year-2nd-semester-2026--</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="38%" valign="middle">
 <img src="images/5-Point-Stencil.png" width="100%"/>
 </td>
 <td valign="top">
@@ -265,6 +242,29 @@ This project is mainly experimental. It aims to characterize the machine and to 
 <table>
 <tr>
 <td width="38%" valign="middle">
+<img src="images/Quantum-Cube-Connectivity.png" width="100%"/>
+</td>
+<td valign="top">
+
+### Quantum Cube & Connectivity — 5th year
+
+Fortran HPC project for molecular orbital cube computation and atomic connectivity analysis from WFX files. The code computes molecular orbital energy cubes, molecular energy density and connectivity metrics for atoms and fragments.
+
+The project targets scientific computing and code optimization. It studies SoA layouts, loop reordering, vectorization, OpenMP parallelization and GPU offloading. It also uses Intel Advisor and VTune to analyze roofline behavior, memory pressure and scalability.
+
+A second important part is the connectivity computation. It includes an ISBI-based metric and support for promolecular models. The project is therefore both a numerical code and an introduction to HPC-oriented quantum chemistry workflows.
+
+→ <a href="https://github.com/Founzo77/Quantum-Cube-Connectivity---5th-year-2nd-semester-2026--">Quantum-Cube-Connectivity---5th-year-2nd-semester-2026--</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="38%" valign="middle">
 <img src="images/Ray-Tracer.png" width="100%"/>
 </td>
 <td valign="top">
@@ -278,29 +278,6 @@ The project is used to study GPU programming more directly than with DXR. It foc
 This work is centered on CUDA rendering and the implementation of a complete GPU pipeline for interactive scenes.
 
 → <a href="https://github.com/Founzo77/GPU-Ray-Tracer-4th-year---2nd-semester-2025-">GPU-Ray-Tracer-4th-year---2nd-semester-2025-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="38%" valign="middle">
-<img src="images/Knapsack-TSP-Solvers.png" width="100%"/>
-</td>
-<td valign="top">
-
-### Knapsack & TSP Solvers — 4th year
-
-Project on combinatorial optimization. It implements several strategies for the knapsack problem and the travelling salesman problem. The objective is to compare algorithmic choices, parallel exploration and practical performance.
-
-The knapsack part includes recursive, iterative and OpenMP versions. The TSP part combines greedy ideas and graph-based evaluation. The project also compares the custom implementations with OR-Tools and includes profiling, memory measurements and benchmark campaigns.
-
-This project mainly targets algorithm design, search strategies and empirical evaluation.
-
-→ <a href="https://github.com/Founzo77/Knapsack-TSP-Solvers-4th-year---2nd-semester-2025-">Knapsack-TSP-Solvers-4th-year---2nd-semester-2025-</a>
 
 </td>
 </tr>
@@ -357,6 +334,29 @@ This project focuses on parallel runtime behavior and performance observation.
 <table>
 <tr>
 <td width="38%" valign="middle">
+<img src="images/Knapsack-TSP-Solvers.png" width="100%"/>
+</td>
+<td valign="top">
+
+### Knapsack & TSP Solvers — 4th year
+
+Project on combinatorial optimization. It implements several strategies for the knapsack problem and the travelling salesman problem. The objective is to compare algorithmic choices, parallel exploration and practical performance.
+
+The knapsack part includes recursive, iterative and OpenMP versions. The TSP part combines greedy ideas and graph-based evaluation. The project also compares the custom implementations with OR-Tools and includes profiling, memory measurements and benchmark campaigns.
+
+This project mainly targets algorithm design, search strategies and empirical evaluation.
+
+→ <a href="https://github.com/Founzo77/Knapsack-TSP-Solvers-4th-year---2nd-semester-2025-">Knapsack-TSP-Solvers-4th-year---2nd-semester-2025-</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="38%" valign="middle">
 <img src="images/Image-Segmentation.png" width="100%"/>
 </td>
 <td valign="top">
@@ -394,7 +394,7 @@ Several datasets were captured with different objects under varying conditions. 
 
 The project also compares different software pipelines (**Meshroom** vs **RealityScan**) in terms of reconstruction quality, robustness, usability and computational cost.
 
-→ <a href="#">Soon : Photogrammetry Report</a>
+→ <a href="https://github.com/Founzo77/Photogrammetry-Introduction---5th-year-2nd-semester-2026--">Photogrammetry-Introduction---5th-year-2nd-semester-2026--</a>
 
 </td>
 </tr>
