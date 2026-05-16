@@ -52,6 +52,7 @@ Advanced understanding of **CPU/GPU performance**, **memory hierarchies**, and *
 - Benchmark design and performance evaluation
 - OpenMP parallelization and scalability analysis
 - GPU offloading (CUDA / OpenMP target)
+- Neural rendering pipelines
 
 → Projects:
 - <a href="https://github.com/Founzo77/Quantum-Cube-Connectivity---5th-year-2nd-semester-2026--">Quantum Cube & Connectivity (Fortran HPC) (5th year)</a>
@@ -59,6 +60,7 @@ Advanced understanding of **CPU/GPU performance**, **memory hierarchies**, and *
 - <a href="https://github.com/Founzo77/Analysis-of-NUMA-effects---5th-year-2nd-semester-2026-">NUMA Analysis (HPC cluster) (5th year)</a>
 - <a href="https://github.com/Founzo77/GPU-Ray-Tracer-4th-year---2nd-semester-2025-">CUDA Ray Tracer profiling (4th year)</a>
 - <a href="https://github.com/Founzo77/FCE---2025-2026-">FGE — DirectX 12 pipeline profiling (5th year)</a>
+- <a href="https://github.com/Founzo77/Neural-Rendering-Introduction---5th-year-2nd-semester-2026">Neural Rendering Analysis (5th year)</a>
 
 ---
 
