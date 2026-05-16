@@ -357,6 +357,29 @@ This project mainly targets algorithm design, search strategies and empirical ev
 <table>
 <tr>
 <td width="38%" valign="middle">
+<img src="images/neural-rendering.png" width="100%"/>
+</td>
+<td valign="top">
+
+### Neural Rendering & Neural Material Models — 5th year
+
+Project dedicated to the study of neural rendering techniques through the analysis of two scientific papers: **Neural Texture Compression (NTC)** and **Real-Time Neural Appearance Models**.
+
+The objective is to understand how neural networks can replace or compress traditional material representations inside modern rendering pipelines. The work focuses on neural architectures, latent material spaces, GPU inference, neural BRDFs and real-time integration inside shaders.
+
+A brief reproducibility study was also conducted using the official implementation of the NTC paper in order to benchmark compression quality, decompression cost and rendering performance on GPU.
+
+→ <a href="https://github.com/Founzo77/Neural-Rendering-Introduction---5th-year-2nd-semester-2026">Neural-Rendering-Introduction---5th-year-2nd-semester-2026</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="38%" valign="middle">
 <img src="images/Image-Segmentation.png" width="100%"/>
 </td>
 <td valign="top">
